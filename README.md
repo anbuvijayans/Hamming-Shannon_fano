@@ -51,7 +51,7 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 
-![dc exp 2 (1)] (https://github.com/user-attachments/assets/e56486f7-7700-459c-b374-b437f2476124)
+![dc exp 2 (1)](https://github.com/user-attachments/assets/e56486f7-7700-459c-b374-b437f2476124)
 
 ![DC EXP -2 (2)](https://github.com/user-attachments/assets/f6e185af-c989-4947-b230-c69fc55e0b3a)
 
